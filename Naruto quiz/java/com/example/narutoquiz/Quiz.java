@@ -122,11 +122,11 @@ public class Quiz extends AppCompatActivity {
                     if (score < 150)
                         text.setText("You got Obito.");
                     else if (score < 200 && score >= 150)
-                        text.setText("You got Sasuke");
+                        text.setText("You got Sasuke.");
                     else if (score < 250 && score >=200)
-                        text.setText("You got KAKASHI");
+                        text.setText("You got Kakashi.");
                     else if (score <= 300 && score >=250)
-                        text.setText("You got naruto"); */
+                        text.setText("You got Naruto."); */
                     openResult();
                 }
             }
@@ -197,11 +197,11 @@ public class Quiz extends AppCompatActivity {
                     if (score < 150)
                         text.setText("You got Obito.");
                     else if (score < 200 && score >= 150)
-                        text.setText("You got Sasuke");
+                        text.setText("You got Sasuke.");
                     else if (score < 250 && score >=200)
-                        text.setText("You got KAKASHI");
+                        text.setText("You got Kakashi.");
                     else if (score <= 300 && score >=250)
-                        text.setText("You got naruto"); */
+                        text.setText("You got Naruto."); */
                     openResult();
                 }
 
@@ -273,11 +273,11 @@ public class Quiz extends AppCompatActivity {
                     if (score < 150)
                         text.setText("You got Obito.");
                     else if (score < 200 && score >= 150)
-                        text.setText("You got Sasuke");
+                        text.setText("You got Sasuke.");
                     else if (score < 250 && score >=200)
-                        text.setText("You got KAKASHI");
+                        text.setText("You got Kakashi.");
                     else if (score <= 300 && score >=250)
-                        text.setText("You got naruto"); */
+                        text.setText("You got Naruto."); */
                     openResult();
                 }
             }
