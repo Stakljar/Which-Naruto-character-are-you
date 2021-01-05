@@ -17,12 +17,12 @@ public class Result extends AppCompatActivity {
 
     public static final String EXTRA_NUMBER = "com.example.narutoquiz.example.EXTRA_NUMBER";
 
-    TextView text;
-    TextView character;
-    ImageView firstCharacter;
-    ImageView secondCharacter;
-    ImageView thirdCharacter;
-    ImageView fourthCharacter;
+    private TextView text;
+    private TextView character;
+    private ImageView firstCharacter;
+    private ImageView secondCharacter;
+    private ImageView thirdCharacter;
+    private ImageView fourthCharacter;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
