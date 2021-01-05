@@ -14,8 +14,8 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    Button button;
-    TextView text;
+    private Button button;
+    private TextView text;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
