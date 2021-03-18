@@ -116,17 +116,6 @@ public class Quiz extends AppCompatActivity {
                         score += 60;
                     if (randomNumber == 4)
                         score += 20;
-                    /*button1.setVisibility(View.INVISIBLE);
-                    button2.setVisibility(View.INVISIBLE);
-                    button3.setVisibility(View.INVISIBLE);
-                    if (score < 150)
-                        text.setText("You got Obito.");
-                    else if (score < 200 && score >= 150)
-                        text.setText("You got Sasuke.");
-                    else if (score < 250 && score >=200)
-                        text.setText("You got Kakashi.");
-                    else if (score <= 300 && score >=250)
-                        text.setText("You got Naruto."); */
                     openResult();
                 }
             }
@@ -191,17 +180,6 @@ public class Quiz extends AppCompatActivity {
                         score += 40;
                     if (randomNumber == 4)
                         score += 40;
-                    /*button1.setVisibility(View.INVISIBLE);
-                    button2.setVisibility(View.INVISIBLE);
-                    button3.setVisibility(View.INVISIBLE);
-                    if (score < 150)
-                        text.setText("You got Obito.");
-                    else if (score < 200 && score >= 150)
-                        text.setText("You got Sasuke.");
-                    else if (score < 250 && score >=200)
-                        text.setText("You got Kakashi.");
-                    else if (score <= 300 && score >=250)
-                        text.setText("You got Naruto."); */
                     openResult();
                 }
 
@@ -267,17 +245,6 @@ public class Quiz extends AppCompatActivity {
                         score += 20;
                     if (randomNumber == 4)
                         score += 60;
-                    /*button1.setVisibility(View.INVISIBLE);
-                    button2.setVisibility(View.INVISIBLE);
-                    button3.setVisibility(View.INVISIBLE);
-                    if (score < 150)
-                        text.setText("You got Obito.");
-                    else if (score < 200 && score >= 150)
-                        text.setText("You got Sasuke.");
-                    else if (score < 250 && score >=200)
-                        text.setText("You got Kakashi.");
-                    else if (score <= 300 && score >=250)
-                        text.setText("You got Naruto."); */
                     openResult();
                 }
             }
